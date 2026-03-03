@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entry-level Software Engineer with a solid technical foundation in Java, OOP, and the MERN stack. Proven ability to architect and deploy scalable solutions, including Microservices and containerized applications using Docker and PostgreSQL. Experienced in optimizing application performance—achieving a 92 PageSpeed score—and conducting rigorous backend load testing with k6 to ensure 99.9% reliability. A recent engineering graduate committed to delivering high-quality, maintainable code using SOLID principles within agile environments.<br>I enjoy coding and learning new things about tech and whats trending in industry
+Entry-level Software Engineer with a solid technical foundation in Java, OOP, and the MERN stack. Proven ability to architect and deploy scalable solutions, including Microservices and containerized applications using Docker and PostgreSQL. Experienced in optimizing application performance—achieving a 92 PageSpeed score—and conducting rigorous backend load testing with k6 to ensure 99.9% reliability. A recent engineering graduate committed to delivering high-quality, maintainable code using SOLID principles within agile environments.I enjoy coding and learning new things about tech and whats trending in industry
 
 
 ## 🌐 Socials:
