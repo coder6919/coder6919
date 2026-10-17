@@ -1,5 +1,75 @@
 # 💫 About Me:
-Entry-level Software Engineer with a solid technical foundation in Java, OOP, and the MERN stack. Proven ability to architect and deploy scalable solutions, including Microservices and containerized applications using Docker and PostgreSQL. Experienced in optimizing application performance—achieving a 92 PageSpeed score—and conducting rigorous backend load testing with k6 to ensure 99.9% reliability. A recent engineering graduate committed to delivering high-quality, maintainable code using SOLID principles within agile environments.I enjoy coding and learning new things about tech and whats trending in industry
+# Hey, I'm Saif 👋
+
+### Software Engineer | AI/ML Enthusiast | Full-Stack & Backend Developer
+
+I'm a Computer Science Engineering graduate passionate about building **scalable software, intelligent AI applications, and products that solve real-world problems.**
+
+I enjoy working across the stack—from designing user interfaces and building backend APIs to experimenting with retrieval-augmented generation (RAG), vector databases, and AI-powered automation.
+
+I'm continuously strengthening my software engineering fundamentals, solving problems on LeetCode and other coding platforms, and building projects that help me turn ideas into practical, reliable applications.
+
+### 🚀 What I'm Working On
+
+- 🤖 Exploring AI/ML, Generative AI, RAG pipelines, and AI agents.
+- ⚙️ Building backend services and REST APIs using Python, Django, Java, and Spring Boot.
+- 🌐 Developing full-stack applications with React, Node.js, Express, and MongoDB.
+- 🧠 Experimenting with vector databases, semantic search, and LLM-powered applications.
+- 🎮 Exploring game development and physics-based multiplayer gameplay with Unity.
+- 💻 Practicing data structures and algorithms on LeetCode and other platforms.
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Java · Python · JavaScript · HTML · CSS
+
+**Frontend:**  
+React.js · Redux Toolkit · Tailwind CSS · Vite
+
+**Backend:**  
+Node.js · Express.js · Django · Spring Boot · REST APIs
+
+**Databases & Search:**  
+MongoDB · PostgreSQL · MySQL · Qdrant · H2
+
+**AI/ML & Generative AI:**  
+RAG · Vector Search · Embeddings · LLM Applications · AI Agents
+
+**Tools & Technologies:**  
+Git · GitHub · Docker · Kafka · gRPC · Postman · Figma
+
+### 📌 Featured Projects
+
+- **AI-Powered RAG System** — Exploring hybrid vector and keyword retrieval with reranking to improve answer relevance and reliability.
+- **Full-Stack Video Streaming App** — A YouTube-inspired application featuring authentication, protected routes, media uploads, and state management.
+- **Patient Management Microservices** — A Java and Spring Boot project exploring service-based architecture, PostgreSQL, Kafka, gRPC, and Docker.
+- **AI-Powered SaaS Products** — Building product-focused applications with an emphasis on useful AI capabilities, polished UX, and maintainable backend systems.
+- **Physics-Based Multiplayer Game** — Experimenting with Unity, character physics, ragdoll movement, and stylized gameplay.
+
+### 📈 My Engineering Philosophy
+
+I believe good software is more than code that works.
+
+I care about clean architecture, security, performance, testing, observability, failure handling, and scalability. My goal is to build applications that are not only functional but also maintainable and dependable in real-world environments.
+
+### 🎯 Current Goals
+
+- Strengthen my DSA and core computer science fundamentals.
+- Deepen my expertise in Python, Java backend development, and AI/ML engineering.
+- Build production-minded AI applications and backend systems.
+- Contribute to meaningful projects and collaborate with other developers.
+- Grow as a software engineer by learning, building, testing, and shipping consistently.
+
+### 🤝 Let's Connect
+
+I'm open to connecting with developers, collaborating on interesting projects, and exploring opportunities in **Software Engineering, Backend Development, Python, and AI/ML Engineering**.
+
+📫 Feel free to explore my repositories and follow my journey as I build and learn.
+
+---
+
+*"Build with curiosity. Engineer with purpose. Improve every day."*
+
 
 
 ## 🌐 Socials:
